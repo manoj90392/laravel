@@ -1,2 +1,2 @@
-git stash
-git pull
+sudo git stash
+sudo git pull
